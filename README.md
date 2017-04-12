@@ -6,3 +6,6 @@ It's meant to be as an informal resource sharing, that would hopefully be helpfu
 
 ## Lunch 'n' learns:
 - [sketchnoting-talk](https://github.com/smallmedia/sketchnoting-talk)
+
+## Resources:
+- [Presentation system](https://github.com/tmcw/big)
